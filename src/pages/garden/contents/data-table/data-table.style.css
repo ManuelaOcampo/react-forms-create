@@ -1,0 +1,20 @@
+.data-table-container{
+    
+        width: 80%;
+        margin: 0 auto;
+        min-height: 75px;
+        border:2px solid yellowgreen;
+        margin-top: 10px;
+        font-size: 21px;
+    
+}
+.space2{
+        
+        white-space:pre-wrap;
+         word-spacing: 150px;
+       text-align-last:justify;
+       
+       
+       
+
+}

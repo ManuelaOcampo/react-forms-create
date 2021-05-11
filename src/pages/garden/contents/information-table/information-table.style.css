@@ -1,0 +1,12 @@
+.information-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 40px;
+    border:2px solid red;
+    margin-top: 10px;
+    font: normal 45px arial, helvetica, sans-serif;
+    font-weight: bold;
+}
+.space{
+    white-space:pre-wrap;
+ }
